@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ryleyherrington/LetterLinker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Letter Linker
+App Information Page
 
 ### LETTER LINKER
 
@@ -20,10 +17,10 @@ Here's a sneak peak at the features so far:
 
 | Light Mode | Dark Mode |
 | - | - |
-|![Light Mode](/assets/Light.png =150x) | ![Dark Mode](/assets/Dark.png =150x)|
+|![Light Mode](/assets/Light.png) | ![Dark Mode](/assets/Dark.png)|
 | - | - |
 | Solved | Expanded|
-|![Solved](/assets/Solved.png = 150x) | ![Expanded](/assets/Expanded.png =150x)|
+|![Solved](/assets/Solved.png) | ![Expanded](/assets/Expanded.png)|
 {: .tablelines}
 
 
