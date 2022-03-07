@@ -1,13 +1,8 @@
-## Letter Linker
-App Information Page
-
-### LETTER LINKER
-
 ## Welcome to Letter Linker
 
-If you have any feature requests or issues, please contact me at @ryleyherrington on twitter, github, or email me at my first and last name at yahoo.
+If you have any feature requests or issues, please contact me at @ryleyherrington on twitter or email me at my ryleyherrington@yahoo.com.
 
-Here's a sneak peak at the features so far:
+Here's a quick overview of Letter Linker(so far): 
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -17,10 +12,10 @@ Here's a sneak peak at the features so far:
 
 | Light Mode | Dark Mode |
 | - | - |
-|![Light Mode](/assets/Light.png) | ![Dark Mode](/assets/Dark.png)|
+|![Light Mode](/assets/Light.png)|![Dark Mode](/assets/Dark.png)|
 | - | - |
 | Solved | Expanded|
-|![Solved](/assets/Solved.png) | ![Expanded](/assets/Expanded.png)|
+|![Solved](/assets/Solved.png)|![Expanded](/assets/Expanded.png)|
 {: .tablelines}
 
 
